@@ -16,6 +16,14 @@
 // let total = getSumofAnArray(myNumbers);
 // console.log(total);
 
+/*
+
+    Problem
+
+    How can I get output two function values?
+
+*/
+
 
 function getOddNumbersOfAnArray(numbers) {
     let oddNumbers = [];
