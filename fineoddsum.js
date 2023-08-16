@@ -47,8 +47,9 @@ function getOddNumbersOfAnArray(numbers) {
     }
 
     let sumOddNumber = sumOddNumbers(oddNumbers);
+    console.log(sumOddNumber);
 
-    return oddNumbers, sumOddNumber;
+    return oddNumbers;
 }
 
 
